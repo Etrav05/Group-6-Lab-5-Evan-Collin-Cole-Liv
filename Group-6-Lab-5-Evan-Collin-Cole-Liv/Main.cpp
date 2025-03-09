@@ -1,5 +1,9 @@
 #include "GameCharacter.h" 
 
+// Evan
+// Liv
+// Collin
+
 using namespace std;
 
 // Question 7. 
